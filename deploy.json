@@ -1,0 +1,10 @@
+{
+  "default": {
+    "project": "codingcatdev-nextjs-firebase",
+    "site": "codingcatdev-nextjs-firebase",
+    "function": {
+      "name": "ssr",
+      "region": "us-central1"
+    }
+  }
+}
